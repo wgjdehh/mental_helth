@@ -1,4 +1,4 @@
-Mental Health Score
+#Mental Health Score
 
 Predicts a "mental health score" (0-10) for students based on their social media use, sleep, study hours, and stress. Trained a regression model on a student survey dataset and wrapped it in a simple form + API.
 
